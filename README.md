@@ -57,6 +57,13 @@ Performed using Power Query:
  - Top Artist & Top Song
 
 ---
+🎨 Dashboard Preview
+
+<img width="1324" height="736" alt="Screenshot 2026-05-01 202127" src="https://github.com/user-attachments/assets/33131c68-0d42-4cec-a6da-b2fdd7accc91" />
+
+---
+
+<img width="1317" height="740" alt="Screenshot 2026-05-01 194636" src="https://github.com/user-attachments/assets/a397a695-2842-4534-8f33-ebd7c0a9ef5c" />
 
 🔹 Dashboard Features
 
@@ -71,9 +78,13 @@ Performed using Power Query:
   - Explicit vs Non-Explicit Distribution
   - Popularity Trend by Month
   - Distinct Songs by Month
-
+ 
 ---
     
+<img width="1314" height="740" alt="Screenshot 2026-05-01 195224" src="https://github.com/user-attachments/assets/fc61a49c-80b0-4aba-9204-528657dd2c8f" />
+
+🔹 Dashboard Features
+
 🎤 Artist Analysis Page
  - Songs by Artist
  - Popularity by Artist
@@ -84,6 +95,10 @@ Performed using Power Query:
  - Some artists have high popularity but fewer songs
 
 ---
+
+<img width="1312" height="736" alt="Screenshot 2026-05-01 195239" src="https://github.com/user-attachments/assets/69807042-a2ca-4c42-9582-6cc08051d5f5" />
+
+🔹 Dashboard Features
 
 🎵 Song Analysis Page
  - Popularity by Songs
